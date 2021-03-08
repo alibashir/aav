@@ -13,3 +13,5 @@ Drew H. Bryant*, Ali Bashir*, Sam Sinai*, Nina K. Jain, Pierce J. Ogden, Patrick
   - Used to normalize sequence subset sizes prior to clustering
 * Clustering of all (viable + non-viable) model-designed sequences (clusters.tar.gz)
 * Clustering of viable-only model-designed sequences (viable_clusters.tar.gz)
+
+### Additional information can be found [here](https://github.com/churchlab/Deep_diversification_AAV)
